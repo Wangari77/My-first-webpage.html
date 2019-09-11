@@ -11,8 +11,7 @@ This goal of this project is to strengthen my software development skills. It pr
 ## Known Bugs
 Ad pop-ups
 ## Technologies Used
-I used html to add an image in my work
-I applied html to add links in my work 
+HTML
 ## Support and contact details
 Incase of any hick-ups when accessing my work kindly email me on phyllismwangi7@gail.com
 Contributions to improve the work are most welcome and will be highly appreciated.
