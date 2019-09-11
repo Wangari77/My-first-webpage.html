@@ -17,5 +17,4 @@ I applied html to add links in my work
 Incase of any hick-ups when accessing my work kindly email me on phyllismwangi7@gail.com
 Contributions to improve the work are most welcome and will be highly appreciated.
 ### License
-Copyright (c) (2019)
-*** Wangari
+Copyright (c) (20i9)
